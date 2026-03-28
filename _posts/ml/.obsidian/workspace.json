@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "4a20c1323b9a03cf",
+    "id": "6b0d9f247afcf607",
     "type": "split",
     "children": [
       {
-        "id": "6bd768dbc7160331",
+        "id": "538e3681f417e672",
         "type": "tabs",
         "children": [
           {
-            "id": "0af0ca6dfb8a4002",
+            "id": "4c46a80661ef3af6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b231da1146979433",
+    "id": "af9dacd6646afb24",
     "type": "split",
     "children": [
       {
-        "id": "914f62b18b85368c",
+        "id": "9725b08e87253ad4",
         "type": "tabs",
         "children": [
           {
-            "id": "1f523c9f6dc3cdd6",
+            "id": "44be84cddc6fca54",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "0a3ff928c3d4cb8c",
+            "id": "904bcb3b0ffd73bd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "6d56106ebc209ce5",
+            "id": "2e0e619ae894e341",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "81f762f576c61a77",
+    "id": "0184ebed27bca874",
     "type": "split",
     "children": [
       {
-        "id": "8c23530ad1bffa91",
+        "id": "e4db9e20420d802b",
         "type": "tabs",
         "children": [
           {
-            "id": "1121806dd448fc96",
+            "id": "7aae4d7d1bacfce4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Study 의 백링크"
+              "title": "백링크"
             }
           },
           {
-            "id": "d359adc04a1005dd",
+            "id": "ffedb5182902a648",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Study 의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
-            "id": "ce493f514c1b9290",
+            "id": "687d351e6cfbda7d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +131,7 @@
             }
           },
           {
-            "id": "134e71ef80c19d1d",
+            "id": "2fca894f89fc647d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,18 +145,17 @@
             }
           },
           {
-            "id": "8ad423e30a025d08",
+            "id": "1e60d7b82f2ef462",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/Study.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Study 의 개요"
+              "title": "개요"
             }
           }
         ]
@@ -176,46 +173,9 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false,
-      "templater-obsidian:Templater": false
+      "bases:새 베이스 생성하기": false
     }
   },
-  "active": "1f523c9f6dc3cdd6",
-  "lastOpenFiles": [
-    "_posts/paper/2026-03-29-first.md",
-    "_posts/paper/2026-03-29-sss.md",
-    "_posts/paper/2026-03-29-무제.md",
-    "무제.md",
-    "CHANGELOG.md",
-    "index.md",
-    "README.md",
-    "screenshot.png",
-    "screenshot-layouts.png",
-    "test/_posts/2013-01-09-markup-text-alignment.md",
-    "study/ai-engineering/agent.md",
-    "study/ai-engineering",
-    "study",
-    "_posts/무제.md",
-    "_posts/docker",
-    "_posts/fastapi/docker",
-    "_posts/fastapi",
-    "_posts/paper",
-    "_posts/agent",
-    "_posts/dl",
-    "_posts/ml",
-    "_templates/choose.md",
-    "_templates/paper.md",
-    "_templates/docker.md",
-    "_templates/fastapi.md",
-    "_templates/agent.md",
-    "_templates/dl.md",
-    "_templates/ml.md",
-    "_templates",
-    "_pages/Corporate-Analysis.md",
-    "_pages/Insight-Report.md",
-    "_pages/study-cs.md",
-    "_pages/study-ai-engineering-ml.md",
-    "_pages/study-ai-engineering-agent.md",
-    "_pages/Study.md"
-  ]
+  "active": "4c46a80661ef3af6",
+  "lastOpenFiles": []
 }
