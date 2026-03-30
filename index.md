@@ -6,8 +6,6 @@ title: "HOME"
 
 # JIBAEK JANG
 
-AI Engineer
-
 ---
 
 ## Education
